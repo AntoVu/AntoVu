@@ -21,7 +21,7 @@ I try to live by the line "For the Future" meaning I do my best work I can today
 ## Inventory <sub>(tech stack)</sub>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,kotlin,go,html,css,react,docker,git,linux,bash,raspberrypi,maven&perline=9" alt="Java, C, C++, Python, JavaScript, TypeScript, Kotlin, Go, HTML, CSS, React, Docker, Git, Linux, Bash, Raspberry Pi, Maven">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,kotlin,go,html,css,react,docker,git,linux,bash,raspberrypi,maven,gradle&perline=9" alt="Java, C, C++, Python, JavaScript, TypeScript, Kotlin, Go, HTML, CSS, React, Docker, Git, Linux, Bash, Raspberry Pi, Maven">
 </p>
 
 <p align="center"><b>Also:</b> SQL · JUnit · ARMv7 Assembly · React Native · REST APIs · UML</p>
