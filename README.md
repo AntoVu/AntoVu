@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,kotlin,go,html,css,react,docker,git,linux,bash,raspberrypi,maven,gradle&perline=9" alt="Java, C, C++, Python, JavaScript, TypeScript, Kotlin, Go, HTML, CSS, React, Docker, Git, Linux, Bash, Raspberry Pi, Maven, Gradle">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,dotnet,java,kotlin,maven,gradle,go,html,css,js,ts,react,nodejs,electron,jest,mysql,py,bash,linux,raspberrypi,git,docker,cloudflare,vscode,idea&perline=9" alt="C, C++, CMake, .NET, Java, Kotlin, Maven, Gradle, Go, HTML, CSS, JavaScript, TypeScript, React, Node.js, Electron, Jest, MySQL, Python, Bash, Linux, Raspberry Pi, Git, Docker, Cloudflare, VS Code, IntelliJ IDEA">
 </p>
 
 <p align="center"><b>Also:</b> SQL · JUnit · ARMv7 Assembly · React Native · REST APIs · UML</p>
